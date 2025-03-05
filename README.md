@@ -16,3 +16,16 @@
 **dnSpy** es una herramienta de ingeniería inversa y depuración para aplicaciones .NET. **dnSpy** permite descompilar archivos .NET (como **.dll** o **.exe**) para obtener el código fuente en **C#** o en otros lenguajes de alto nivel, lo que te permite ver como esta implementada una aplicación.
 
 **HxD Editor** es una herramienta que permite ver y editar archivos a nivel de bytes, en su forma más cruda. Los archivos se representan en formato **hexadecimal** (base 16), lo que facilita la visualización y edición de la información binaria contenida en ellos.
+
+# Instalacion de herramientas:
+
+### Apktool
+Primero ingresa [aquí](https://apktool.org/docs/install) y descarga los archivos necesarios:
+PROXIMAMENTE!!!
+
+# Crea tu primer hack xd
+
+ 1. Encuentra un juego que quieras modificar xd.
+ 2. Descompila el **.apk** con Apktool:
+    * Ejecuta el comando (dentro de la carpeta donde se encuentra el .apk):
+    ``apktool d nombre_del_archivo.apk``
